@@ -14,9 +14,10 @@ async function fetchFromGitHub(endpoint) {
 async function showGitHubUser(handle) {
     try {
         const user = await fetchFromGitHub(`/users/${handle}`);
-        console.log(user);
+        console.log(user.name);
+        console.log(user.location);
     } catch (error) {
-        console.error(error);
+        console.error(`Error: ${error.message}`);
     }
 }
 
