@@ -1,5 +1,7 @@
 # Await Multiple Promises Sequentially or Concurrently
 
+[[watch the lesson]](https://egghead.io/lessons/javascript-await-multiple-promises-sequentially-or-concurrently)
+
 You can await multiple promises either sequentially or concurrently, depending on where you put the `await` operators. This lesson shows both approaches and compares the performance characteristics.
 
 ```

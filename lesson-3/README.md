@@ -1,5 +1,7 @@
 # Convert Any Function into an Asynchronous Function
 
+[[watch the lesson]](https://egghead.io/lessons/javascript-convert-any-function-into-an-asynchronous-function)
+
 Any function can be made asynchronous, including function expressions, arrow functions, and methods. This lesson shows the syntax for each of the function types.
 
 ```

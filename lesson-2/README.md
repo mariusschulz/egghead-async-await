@@ -1,5 +1,7 @@
 # Call an Asynchronous Function in a Promise Chain
 
+[[watch the lesson]](https://egghead.io/lessons/javascript-call-an-asynchronous-function-in-a-promise-chain)
+
 In this lesson, we’re exploring how asynchronous functions can be seamlessly called within a promise chain — just like any other function that returns a promise.
 
 ```
