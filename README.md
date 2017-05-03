@@ -1,6 +1,11 @@
 # Asynchronous JavaScript with async/await
 
-This repository contains the code for my [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) video course. Go check it out if you haven't yet watched it!
+This repository contains the code for my [Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await) video course.  
+Go check it out if you haven't yet watched it!
+
+<a href="https://egghead.io/courses/asynchronous-javascript-with-async-await" title="Asynchronous JavaScript with async/await">
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/118/full/EGH_AsyncJSAwait_Final-01.png?1493405998" width="250" height="250" alt="Asynchronous JavaScript with async/await" />
+</a>
 
 ## Lessons
 
